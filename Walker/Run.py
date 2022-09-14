@@ -1,1 +1,1 @@
-class test2
+class test
