@@ -1,1 +1,1 @@
-class t
+class test
